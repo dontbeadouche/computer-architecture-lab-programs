@@ -1,0 +1,20 @@
+1: Write the MIPS ALP for the high level code 
+
+   a  = a * b / c % d + e;
+
+2: Write a MALP to check if a given year is a leap year
+   cond for leap year (read from kdb and display msg on console)
+   (year % 4 == 0 && year % 100 != 0) ||
+       year % 400 == 0)
+
+3: Write a MALP for checking if an given no is Amstrong no  (assum  e 3 digits)
+  eg 153  ( 1^3 + 5^3 + 3^3 = 153)
+
+4. Write a MAPLP to search for no in a array
+   i) linear search
+   ii) binary search
+
+5. Find the GCD of 2 nos. (non-recursive, recursive)
+6. char *strcat(char *dst, char *src)
+
+      
