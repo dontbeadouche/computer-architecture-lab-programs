@@ -1,0 +1,33 @@
+1: Write the MIPS ALP for the high level code 
+
+   a  = a * b / c % d + e;
+
+2: Write MALP to check if a given no is odd/even &
+   print approprite msg
+
+3: Write a MALP to check if a given year is a leap year
+   cond for leap year (read from kdb and display msg on console)
+   (year % 4 == 0 && year % 100 != 0) ||
+       year % 400 == 0)
+
+4: Write a MALP for checking if an given no is Amstrong no  (assum  e 3 digits)
+  eg 153  ( 1^3 + 5^3 + 3^3 = 153)
+
+5. Write a MAPLP to search for no in a array
+   i) linear search
+   ii) binary search
+
+6. Write a MALP for Pascals Triangle
+      1
+      1 2 1
+      1 3 3 1
+      1 4 6 4 1
+      1 5 10 10 
+
+7. Write a MALP for generating ficonacci series (up to N)
+8. Count the no of bits that are set (ie 1s) in a 32bit no.
+9. Find the GCD of 2 nos.
+10. Tower of Hanoi
+11. Exchange with and with out pointers
+12. strcat(char *dst, char *src)
+      
